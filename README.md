@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/profile.png" width="100%" alt="Akarsh Sharma — Agentic orchestrator and AI-enabled developer, Bellevue, Washington. Detailed white face-only ASCII portrait from the original photo, presented in a CLI terminal. Hobbies: robotics, CAD, guitar, running, building and using AI, and claudemaxxing." />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile.png" />
+    <img src="assets/profile.gif" width="100%" alt="Akarsh Sharma — Agentic orchestrator and AI-enabled developer, Bellevue, Washington. The first detailed white ASCII portrait, cropped to the face with occasional subtle left/right tilts in a CLI terminal. Hobbies: robotics, CAD, guitar, running, building and using AI, and claudemaxxing." />
+  </picture>
 </p>
 
 <details>
@@ -26,4 +29,4 @@ Based in Bellevue, Washington. Explore my four pinned projects below.
 
 </details>
 
-<!-- Design references: Andrew6rant/Andrew6rant; saivarun1410/termfetch. Original photo converted to actual ASCII glyphs; no generated face used in the current portrait. -->
+<!-- Design references: Andrew6rant/Andrew6rant; saivarun1410/termfetch. The first detailed portrait restored in white and cropped; static fallback for reduced motion. -->

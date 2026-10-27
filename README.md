@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.png" width="100%" alt="Akarsh Sharma — Agentic orchestrator and AI-enabled developer based in Bellevue, Washington. Arcade-style ASCII portrait. Hobbies: robotics, CAD, guitar, running, building and using AI, and claudemaxxing." />
+  <img src="assets/profile.png" width="100%" alt="Akarsh Sharma — Agentic orchestrator and AI-enabled developer based in Bellevue, Washington. Original detailed ASCII portrait in white. Hobbies: robotics, CAD, guitar, running, building and using AI, and claudemaxxing." />
 </p>
 
 I build agent workflows and AI-enabled software, connecting clear requirements, tools, implementation, and verification. My projects span portable agent skills, robotics tooling, adaptive learning, and public-source research.

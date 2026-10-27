@@ -6,4 +6,4 @@ The supplied portrait was transformed using the built-in imagegen tool. Prompt: 
 
 Tool usage describes tasks, not measured usage percentages. Skills reflect public project sources. No credentials, age, email, or private repository details are included.
 
-The current portrait is a deterministic 44-column by 36-row ASCII rendering of the same white portrait. It uses white glyphs on dark navy. The source is downsampled from 1254 by 1254 pixels to a 44 by 36 luminance grid; the portrait display is 498 by 498 pixels. No face regeneration or source upscaling is used in this revision.
+The current portrait is a deterministic 52-column by 44-row ASCII rendering of a face crop from the same white portrait. It uses white glyphs on dark navy. The source crop is 730 by 900 pixels, padded horizontally to preserve proportions; a head outline excludes the shirt and hand. It is downsampled to the character grid and displayed at 498 by 498 pixels. No face regeneration or source upscaling is used in this revision.

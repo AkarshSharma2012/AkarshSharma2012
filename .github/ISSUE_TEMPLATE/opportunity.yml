@@ -1,0 +1,38 @@
+name: Internship, mentorship, or collaboration
+description: Start a conversation about a technical opportunity.
+title: "Opportunity: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share a short introduction and a public role or contact link. This issue is public; private details can be arranged separately.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Opportunity type
+      options:
+        - Internship
+        - Mentorship
+        - Technical collaboration
+    validations:
+      required: true
+  - type: input
+    id: team
+    attributes:
+      label: Team or project
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What are you working on?
+      description: Describe the opportunity, the relevant technical work, and any timing or location requirements.
+    validations:
+      required: true
+  - type: input
+    id: public-link
+    attributes:
+      label: Public role or contact link
+      description: A role listing, team website, or GitHub profile is enough.
+    validations:
+      required: false

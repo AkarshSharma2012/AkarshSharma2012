@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="236" viewBox="0 0 1440 236" role="img" aria-labelledby="t d">
+<title id="t">Open to internships, mentorship, and technical collaboration</title><desc id="d">Interested in agent tooling, developer tools, and software engineering. Based in Bellevue, Washington.</desc>
+<rect x="1" y="1" width="1438" height="234" rx="8" fill="#0b0d10" stroke="#34373c" stroke-width="2"/>
+<g font-family="Consolas, 'Liberation Mono', monospace" font-size="22">
+<text x="32" y="46" fill="#b5e7ff">akarsh@github:~$ <tspan fill="#dedede">cat opportunities.txt</tspan></text>
+<text x="32" y="100" fill="#b5e7ff">[open]<tspan dx="18" fill="#fff">Internships / mentorship / technical collaboration</tspan></text>
+<text x="32" y="145" fill="#bcbcbc">Focus: agent tooling / developer tools / software engineering</text>
+<text x="32" y="190" fill="#bcbcbc">Location: Bellevue, Washington</text>
+</g></svg>
